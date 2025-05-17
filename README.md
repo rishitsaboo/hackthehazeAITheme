@@ -140,7 +140,7 @@ Deploy using Vercel, Netlify, or similar and include the live URL in your README
 
 ### 5️⃣ Submit on Unstop
 
-Go to the [Unstop Hackathon Portal](https://unstop.com) and submit:
+Go to the [Unstop Hackathon Portal]([https://unstop.com](https://unstop.com/hackathons/hack-the-haze-brainfog-ageny-llp-1478920?lb=rPZTpAcO&utm_medium=Share&utm_source=shortUrl)) and submit:
 
 * 🔗 GitHub repository URL
 * 🔗 Live deployed URL (if available)
