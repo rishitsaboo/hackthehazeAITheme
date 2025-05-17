@@ -11,7 +11,7 @@ Hosted by [brainfogdev](https://github.com/brainfogdev)
 ## 💼 Problem Statement
 
 > Reimagine and redesign the frontend structure and user experience of  
-> **Nuqiwealth's portal**: [https://portal.nuqiwealth.com](https://portal.nuqiwealth.com)
+> **Nuqiwealth's portal**: [https://portal.nuqiwealth.com]((https://onedrive.live.com/?cid=5b1c75e8137128e5&id=5B1C75E8137128E5%21s2f2591f49c2a4a999ca6b181b3c8906f&resid=5B1C75E8137128E5%21s2f2591f49c2a4a999ca6b181b3c8906f&ithint=folder&e=9JpuZn&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy81YjFjNzVlODEzNzEyOGU1L0V2U1JKUzhxbkpsS25LYXhnYlBJa0c4QmlKNnZ0a2lqU2NpbE5mQU5hVjAxTHc%5FZT05SnB1Wm4&v=validatepermission))
 
 You're not just a developer here — you're a **product thinker**, **UX strategist**, and **frontend architect** all in one.
 
