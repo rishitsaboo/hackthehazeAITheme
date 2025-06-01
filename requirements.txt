@@ -1,0 +1,6 @@
+streamlit
+spacy
+neo4j
+pandas
+scikit-learn
+joblib

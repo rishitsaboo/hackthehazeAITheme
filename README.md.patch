@@ -1,0 +1,27 @@
+## Running the Application
+=======
+3. Ensure Neo4j is running locally on `bolt://localhost:7687` with username `neo4j` and password `qwertyuiop`.
+
+4. Neo4j Setup:
+
+- If Neo4j is not installed, download and install it from [Neo4j Download Center](https://neo4j.com/download/).
+- Start the Neo4j Desktop application or run Neo4j server.
+- Open the Neo4j Browser at `http://localhost:7474` and log in with the above credentials.
+- To set up the graph database, run the Cypher queries contained in the `graph_database_by_neo4j_career_skills.cypher` file. This file creates nodes for careers, exams, skills, and their relationships.
+- You can run the Cypher script by copying its contents into the Neo4j Browser query editor and executing it, or by using the Neo4j command line tools.
+
+## Running the Application
+>>>>>>> REPLACE
+<<<<<<< SEARCH
+- `career_df.pkl`, `career_knn_model.pkl`, `tfidf_vectorizer.pkl`: Model and data files
+
+## Resources
+
+- Indian exam resources links are included in the app sidebar.
+=======
+- `career_df.pkl`, `career_knn_model.pkl`, `tfidf_vectorizer.pkl`: Model and data files
+- `graph_database_by_neo4j_career_skills.cypher`: Cypher queries to set up the Neo4j graph database with careers, exams, skills, and their relationships
+
+## Resources
+
+- Indian exam resources links are included in the app sidebar.
